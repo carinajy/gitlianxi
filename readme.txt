@@ -7,4 +7,4 @@ git erci guanlixiugai
 
 git shenshenqiqi
 
-git fenzhi
+Creating a new branch is quick AND simple.
