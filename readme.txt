@@ -7,4 +7,6 @@ git erci guanlixiugai
 
 git shenshenqiqi
 
-zhufenzhixiugai
+
+
+Creating a new branch is quick AND simple. and zhufenzhixiugai
